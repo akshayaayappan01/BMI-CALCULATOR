@@ -10,5 +10,8 @@ Domain : Python Programming
 Short Description:
 This project involves creating a Body Mass Index (BMI) Calculator in Python. The beginner version is a simple command-line tool that takes user input (weight and height), calculates BMI, and categorizes the result. The advanced version includes a graphical user interface (GUI) using Tkinter or PyQt, supports multiple users, stores BMI history, and visualizes trends using charts and graphs for deeper health insights.
 Output:
+
+
+
 ![Image](https://github.com/user-attachments/assets/bf454074-fd5d-4448-8ca4-247c7e26991e)
 
